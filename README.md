@@ -72,7 +72,7 @@ Ultimately, this project taught me not just how to train a model, but how to thi
 
 This repository contains:  
 - `pirate_agent.ipynb` — The Jupyter Notebook implementing the deep Q-learning pirate agent
-- `Design Defense` — Design Defense for Pirate Intelligent Agent
+- `Design Defense.docx` — Design Defense for Pirate Intelligent Agent
 - `README.md` — This reflection file detailing project work, learning connections, and ethical context  
 
 ---
